@@ -35,4 +35,4 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriTals&theme=dracula&hide_border=false"/>
 </div>
   
-![Snake Animation](https://github.com/YuriTals/YuriTals/blob/output/github-contribution-gri-snake.svg) 
+![snake gif](https://github.com/YuriTals/YuriTals/blob/output/github-contribution-grid-snake.svg)
