@@ -34,10 +34,5 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YuriTals&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriTals&theme=dracula&hide_border=false"/>
 </div>
-
-### <img src="https://raw.githubusercontent.com/YuriTals/YuriTals/master/hand.gif" width="30"> Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=YuriTals&icon=2&color=1)](https://visitcount.itsvg.in)
-
+  
+![Snake Animation](https://github.com/YuriTals/YuriTals/blob/output/github-contribution-gri-snake.svg) 
