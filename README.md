@@ -24,8 +24,8 @@
 # <img src="https://raw.githubusercontent.com/YuriTals/YuriTals/master/Charts.gif" width="30"> Status do GitHub:
 <div>
   <a href="https://github.com/YuriTals">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriTals&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriTals&theme=dracula&hide_border=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YuriTals&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YuriTals&theme=dracula&hide_border=false"/>
 </div>
 
 ### <img src="https://raw.githubusercontent.com/YuriTals/YuriTals/master/hand.gif" width="30"> Random Dev Quote
